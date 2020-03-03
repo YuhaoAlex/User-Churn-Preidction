@@ -1,4 +1,4 @@
-Source data link: "https://drive.google.com/open?id=1a0HVm1Qk6xxWG9SxkkQDmyXjIeCZr_gR"
+Source data link: "https://drive.google.com/open?id=1a0HVm1Qk6xxWG9SxkkQDmyXjIeCZr_gR" 
 
 
 ·  Processed data with data engineering, visualized data, predicted user churn with machine learning methods and evaluated the result.
